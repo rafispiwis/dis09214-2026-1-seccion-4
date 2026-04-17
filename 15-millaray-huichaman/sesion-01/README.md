@@ -7,4 +7,4 @@ los parrafos
 tada!
 
 
-![texto que explica una imagen](source de la imagen ./)
+![texto que explica una imagen](./digi.png)
